@@ -1,6 +1,4 @@
-from ast import mod
-from msilib.schema import Signature
-from pickle import TRUE
+
 from django.db import models
 department_CHOICES = (
     ('Gynacology','Gynacology'),
